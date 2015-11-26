@@ -1,0 +1,22 @@
+{
+    "name": "gezeresolutionsweb/selenium-server-standalone",
+    "description": "This is a repository that interface the latest stable version of selenium-server-standalone.",
+    "type": "library",
+    "keywords": [
+        "selenium",
+        "testing"
+    ],
+    "homepage": "https://github.com/gezeresolutionsweb/selenium-server-standalone",
+    "license": "MIT", 
+    "authors": [
+        {
+            "name": "Sylvain Lévesque",
+            "email": "slevesque@gezere.com",
+            "homepage": "http://www.gezere.com",
+            "role": "Developer"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    }
+}

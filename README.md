@@ -1,4 +1,4 @@
-gezeresolutionsweb/selenium-server-standalone
+mathieuc1771/selenium-server-standalone
 =============================================
 
 This is a repository that interface the latest stable version of selenium-server-standalone.
@@ -14,5 +14,5 @@ Installation
 ### Composer
 
 ```bash
-composer require gezeresolutionsweb/selenium-server-standalone:*
+composer require mathieuc1771/selenium-server-standalone:*
 ```
